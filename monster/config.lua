@@ -1,19 +1,13 @@
 do local _ = {
   about_text = "",
   enabled_plugins = {
-    "addrem",
-    "bc",
-    "lock",
-    "help",
-    "rank",
-    "msg_checks",
-    "tools",
+    "groupmanger",
   },
   group  = {
     data = "bot/group.json"
   },
   sudo_users = {
-    244252169,
+    426795071,
     259142888,
     0
     
